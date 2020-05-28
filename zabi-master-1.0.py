@@ -67,10 +67,10 @@ def tik():
 
 
 back = 0
-Really works = []
+works = []
 Checkpoint = []
 oks = []
-id = []
+ids= []
 listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
